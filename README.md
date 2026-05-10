@@ -1,4 +1,3 @@
-# AI-Research-Paper-Hub
 # AI Research Paper Hub
 
 AI Research Paper Hub helps learners explore important AI, machine learning, deep learning, and generative AI research papers without feeling lost.
